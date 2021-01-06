@@ -1,0 +1,25 @@
+{
+    "name": "disc-crash-video",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "bin": "app.js",
+    "dependencies": {
+        "consola": "^2.15.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/foobball/disc-crash-vid.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/foobball/disc-crash-vid/issues"
+    },
+    "homepage": "https://github.com/foobball/disc-crash-vid#readme"
+}
